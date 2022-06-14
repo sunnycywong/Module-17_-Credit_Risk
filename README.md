@@ -1,7 +1,5 @@
 # Module-17_-Credit_Risk
 
-# Module-16_-Amazon_Vine_Analysis
-
 ## (1) Overview 
 Review credit card data from a LendingClub by creating a machine learning model to predict the credict risk. 
 
